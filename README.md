@@ -6,6 +6,6 @@ It takes input and displays either information about the specific title associat
 
 ## Usage
 
-1. Subsribe to the API here: https://rapidapi.com/rapidapi/api/movie-database-imdb-alternative/details
+1. Subscribe to the API here: https://rapidapi.com/rapidapi/api/movie-database-imdb-alternative/details
 2. Replace EXAMPLEKEY123 with your API Key received from rapidapi.com
 3. Make sure you have easygui, http.client, and json modules installed.
